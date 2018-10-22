@@ -2,7 +2,7 @@ var greeting = "Hello, everybody!";
 
 var specialGuest = "Hello,  ${specialGuest}!"
 
-var greetSpecialGuest = "Hello, ${specialGuest}!";
+var greetSpecialGuest = "Hello, "+"Hello, ${specialGuest}!";
 
 var topic = "Let's talk about Let's talk about Let's talk about Let's talk about space..";
 
